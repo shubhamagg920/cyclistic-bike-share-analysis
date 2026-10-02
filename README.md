@@ -349,5 +349,5 @@ cyclistic-bike-share-analysis/
 ├── dashboard/
 │   └── cyclistic_dashboard.png
 │
-├── presentation/
+└── presentation/
     └── Cyclistic_Findings_and_Recommendations.pptx
