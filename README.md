@@ -272,6 +272,14 @@ The dashboard includes:
 
 ---
 
+# Presentation
+
+A PowerPoint presentation summarizing the key findings, behavioral differences between members and casual riders, recommendations, and measurement approach.
+
+[Download the Cyclistic Findings & Recommendations Presentation](presentation/Cyclistic_Findings_and_Recommendations.pptx)
+
+---
+
 # Recommendations
 
 The analysis provides several areas that can be tested to increase annual membership conversion.
