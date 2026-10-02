@@ -350,7 +350,4 @@ cyclistic-bike-share-analysis/
 │   └── cyclistic_dashboard.png
 │
 ├── presentation/
-│   └── Cyclistic_Findings_and_Recommendations.pptx
-│
-└── documentation/
-    └── project_notes.md
+    └── Cyclistic_Findings_and_Recommendations.pptx
