@@ -22,6 +22,12 @@ The objective is to identify differences in riding behavior between annual membe
 
 ---
 
+## Interactive Dashboard
+
+**Tableau Public:** [View Cyclistic Executive Overview](https://public.tableau.com/views/Cyclistic_17908287080820/CyclisticExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## Dataset
 
 **Analysis Period:** September 2025 – August 2026
@@ -255,6 +261,10 @@ The dashboard includes:
 - Average duration by month
 - Interactive filters
 - Key takeaways
+
+**View the interactive dashboard on Tableau Public:**
+
+[View Cyclistic Executive Overview](https://public.tableau.com/views/Cyclistic_17908287080820/CyclisticExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Dashboard Preview
 
